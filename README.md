@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫 Hi 👋, I'm Y Feroza<br><br>A passionate BCA Student | Aspiring Software Developer | AI & Web Development<br>For Collaboration, Projects, Internships, or Anything Tech-Related 😊<br><br>🔭 I’m currently working on<br>Final Year BCA projects including AI-based Chatbots,  ML and Full stack Projects<br> <br>🌱 I’m currently learning<br>Machine Learning basics, REST APIs<br><br>😄 Pronouns: <br>She/Her<br><br>⚡ Fun fact<br>I believe consistency beats talent in tech 💡
+💫 Hi 👋, I'm Y Feroza<br><br>A passionate BCA Student | Aspiring Software Developer | AI & Web Development<br>For Collaboration, Projects, Internships, or Anything Tech-Related 😊<br><br>🔭 I’m currently working on<br>Final Year BCA projects including AI-based Chatbots,  ML and Full stack Projects<br> <br>🌱 I’m currently learning<br>Machine Learning basics, REST APIs<br><br>😄 <br>⚡ Fun fact<br>I believe consistency beats talent in tech 💡
 
 
 ## 🌐 Socials:
