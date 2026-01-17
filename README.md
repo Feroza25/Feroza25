@@ -2,7 +2,7 @@
 💫 Hi 👋, I'm Y Feroza<br><br>A passionate BCA Student | Aspiring Software Developer | AI & Web Development<br>For Collaboration, Projects, Internships, or Anything Tech-Related 😊<br><br>🔭 I’m currently working on: Final Year BCA projects including AI-based Chatbots, Web Applications, and Python Projects<br>🌱 I’m currently learning: Machine Learning basics, REST APIs<br>👯 I’m looking to collaborate on: Open-Source contributions, Web & AI mini-projects<br>😄 Pronouns: She/Her<br>⚡ Fun fact: I believe consistency beats talent in tech 💡
 
 
-## 🌐 Socials:
+## 🌐 Socials: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/feroza-y) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yferoza12@gmail.com) 
 
 # 💻 Tech Stack:
